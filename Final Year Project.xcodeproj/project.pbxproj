@@ -13,6 +13,7 @@
 		CEC26A2925A56F0200C0FA0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEC26A2725A56F0200C0FA0E /* Main.storyboard */; };
 		CEC26A2B25A56F0500C0FA0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEC26A2A25A56F0500C0FA0E /* Assets.xcassets */; };
 		CEC26A2E25A56F0500C0FA0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEC26A2C25A56F0500C0FA0E /* LaunchScreen.storyboard */; };
+		CEC26A3825A56F3600C0FA0E /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CEC26A3725A56F3600C0FA0E /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEC26A2A25A56F0500C0FA0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEC26A2D25A56F0500C0FA0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEC26A2F25A56F0500C0FA0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEC26A3725A56F3600C0FA0E /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		CEC26A2025A56F0200C0FA0E /* Final Year Project */ = {
 			isa = PBXGroup;
 			children = (
+				CEC26A3725A56F3600C0FA0E /* harrypotter.mp4 */,
 				CEC26A2125A56F0200C0FA0E /* AppDelegate.swift */,
 				CEC26A2325A56F0200C0FA0E /* art.scnassets */,
 				CEC26A2525A56F0200C0FA0E /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			files = (
 				CEC26A2425A56F0200C0FA0E /* art.scnassets in Resources */,
 				CEC26A2E25A56F0500C0FA0E /* LaunchScreen.storyboard in Resources */,
+				CEC26A3825A56F3600C0FA0E /* harrypotter.mp4 in Resources */,
 				CEC26A2B25A56F0500C0FA0E /* Assets.xcassets in Resources */,
 				CEC26A2925A56F0200C0FA0E /* Main.storyboard in Resources */,
 			);
